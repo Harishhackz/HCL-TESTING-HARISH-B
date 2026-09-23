@@ -4,7 +4,7 @@ https://docs.google.com/spreadsheets/d/1Nbdeo5XLXlpiTFXkPR99xj5NcoLVVxs5RtZ5DX9v
 # EPtesting(22-09-2026)
 https://docs.google.com/spreadsheets/d/1bcG3XZDY_872SiQvgOr-OMZtFsUcZEUz/edit?usp=sharing&ouid=114707436565712301551&rtpof=true&sd=true
 
-# python(23-01-2026)
+# python(23-09-2026)
 1.Write a Python program which accepts a sequence of comma separated 4 digit
 binary numbers as its input and then check whether they are divisible by 5 or not.
 The numbers that are divisible by 5 are to be printed in a comma separated
