@@ -89,7 +89,7 @@ for right in range(len(student_ids)):
     maximum = max(maximum, right - left + 1)
 print("Maximum length:", maximum)
 ```
-2.2. Online Shopping Price Analysis
+2. Online Shopping Price Analysis
 An online shopping application stores the prices of products viewed by a customer during a browsing session. The customer wants to identify a continuous range of products that provides the maximum possible total discount value. Given the discount values, determine the maximum value that can be obtained from any continuous range.
 ```
 dis=[-2,3,6,-7,4,2]
