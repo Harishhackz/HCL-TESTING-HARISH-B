@@ -222,6 +222,9 @@ for appointment in appointments:
         merged[-1][1] = max(merged[-1][1], appointment[1])
 print("Merged appointments:", merged)
 ```
+## PYTHON (29.09.2026)
+
+https://colab.research.google.com/drive/1FeN5AjL7yJTgY-khol1Ub57HRhvgdRVY?usp=sharing
 
 
 
