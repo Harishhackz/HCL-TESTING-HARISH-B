@@ -225,6 +225,8 @@ print("Merged appointments:", merged)
 ## PYTHON (29.09.2026)
 
 https://colab.research.google.com/drive/1FeN5AjL7yJTgY-khol1Ub57HRhvgdRVY?usp=sharing
+## selenium 
+https://onedrive.live.com/:w:/g/personal/3E09698963DBBFAF/IQCW_2ZKJ9xKS7Q5oHaVoCPNAa9X9Ff7HJBQiJe7TYCS3rg?resid=3E09698963DBBFAF!s4a66ff96dc274b4ab439a07695a023cd&ithint=file%2Cdocx&e=hdkbwF&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8zZTA5Njk4OTYzZGJiZmFmL0lRQ1dfMlpLSjl4S1M3UTVvSGFWb0NQTkFhOVg5RmY3SEpCUWlKZTdUWUNTM3JnP2U9aGRrYndG
 
 
 
